@@ -1,8 +1,6 @@
 import java.util.Scanner;
 import java.util.Arrays;
-/*
-Second Commit
-*/
+
 public class BinarySearch{
     
     public static int bSearch(int[] array, int target, int low, int high){
